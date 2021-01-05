@@ -1,8 +1,8 @@
 Applied computing
 ====
 
-* [Syllabus](CourseAssets/syllabus.md)
-* [Schedule](CourseAssets/schedule.md)
+* [Syllabus](./syllabus.md)
+* [Schedule](./schedule.md)
 
 ## Summary of Topics
 Foundational knowledge of the computing platform we use, Google Cloud Platform, together with SQL, tools for visualizations, and Python for data science.
