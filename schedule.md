@@ -2,8 +2,9 @@
 
 | Date | Lecture title | Content |Assignment<br> (see our textbooks [Applied Computing 1](https://runestone.academy/runestone/books/published/ac1/index.html) and [How to Think like a Data Scientist](https://runestone.academy/runestone/books/published/httlads/index.html) for the assigned readings) | Deadlines |
 |:---:|---|:---:|:---:|:---:|
-|Lecture 1| Introduction to QTM 250 | What’s in this course; how to get to readings and Qwiklabs; introduce the projects.|  <br> |  |
-|Lecture 2| Spreadsheet Basics |  | Read Notebook 2 |  |
+|Lecture 0| Introduction to QTM 250 | What’s in this course; how to get to readings and Qwiklabs; introduce the projects.|  Complete [A Tour of Qwiklabs and Google Cloud](https://www.qwiklabs.com/focuses/2794?parent=catalog) [Applied Computing: Module A Preface](https://runestone.academy/runestone/books/published/ac1/module_a_preface.html) |  |
+|Lecture 1| Computer literacy |  |  |  |
+|Lecture 2| Spreadsheet Basics |  | Read [Introduction To Visualizations](https://runestone.academy/runestone/books/published/ac1/introduction_to_visualizations/toctree.html) and [Sheets Basics](https://runestone.academy/runestone/books/published/ac1/sheets_basics/toctree.html) |  |
 |Lecture 3| So, What’s the Cloud Anyway? | Discuss what the cloud is and why it’s a technological and business game changer. | Read Linux codelab |Test yourself quiz: week 1|
 |Lecture 4| Filtering and grouping data | | Read Notebook 3 | |
 |Lecture 5| Google Cloud Platform (GCP) | Describe the different ways a user can interact with Google Cloud. |  Complete [A Tour of Qwiklabs and Google Cloud](https://www.qwiklabs.com/focuses/2794?parent=catalog) lab |Test yourself quiz: week 2 |
