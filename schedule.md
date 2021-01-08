@@ -2,7 +2,7 @@
 
 | Date | Lecture title | Content |Assigned Reading <br> (see our textbook [Applied Computing 1](https://runestone.academy/runestone/books/published/ac1/index.html) for the assigned readings) | Deadlines |
 |:---:|---|:---:|:---:|:---:|
-|Lecture 0| Introduction to QTM 250 | What’s in this course; introduce the projects.| [Module A Preface](https://runestone.academy/runestone/books/published/ac1/module_a_preface.html) |  |
+|Lecture 0| Introduction to QTM 250 | Course overview; motivate the topics| [Module A Preface](https://runestone.academy/runestone/books/published/ac1/module_a_preface.html) |  |
 |Lecture 1| Prerequisites for cloud | Binary, Characters, ASCII, Unicode, High vrs low level programming languages, Compiled vrs interpreted languages | [Computer Literacy Codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/essential-computer-literacy/index.html#0)  |  |
 |Lecture 2| Spreadsheet Basics | Visualizations and formulas; illustrative examples | [Introduction To Visualizations](https://runestone.academy/runestone/books/published/ac1/introduction_to_visualizations/toctree.html), <br> [Sheets Basics](https://runestone.academy/runestone/books/published/ac1/sheets_basics/toctree.html) |  |
 |Lecture 3| So, What’s the Cloud Anyway? | Discuss what the cloud is and why it’s a technological and business game changer. | Read Linux codelab |Test yourself quiz: week 1|
