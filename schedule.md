@@ -20,13 +20,13 @@
 |Lecture 15| It Helps to Network | Build a variety of cloud networks and load balancing services. | Module 7 slides | Test yourself quiz: week 7|
 |Lecture 16| Python and Jupyter notebooks |   | |Test yourself quiz: week 8  |
 |Lecture 17| Cloud automation and management tools | Identify cloud automation and management tools, including Cloud Deployment Manager and Google Cloud’s operations suite. |Module 8 slides | HW 3 |
-|Lecture 18|  | |Watch [Module 7](https://awsacademy.instructure.com/courses/976/modules#module_12162) videos |Test yourself quiz: week 9  |
+|Lecture 18|  | |  |Test yourself quiz: week 9  |
 |Lecture 19| Managed big data services in the cloud || Module 9 slides  | Proposal |
-|Lecture 20|  |  |Watch [Module 8](https://awsacademy.instructure.com/courses/976/modules#module_12163) videos| Test yourself quiz: week 10 |
+|Lecture 20|  |  | | Test yourself quiz: week 10 |
 |Lecture 21|  Introduction to machine learning in the cloud | Explain what machine learning is, the terminology used, and its value proposition. Explore Cloud AutoML and a range of Google ML APIs.|Module 10 slides | |
-|Lecture 22|  ||Watch [Module 9](https://awsacademy.instructure.com/courses/976/modules#module_12164) videos| Test yourself quiz: week 11  |
-|Lecture 23|   || Read Notebook 11 | |
-|Lecture 24|  | |[Module 10](https://awsacademy.instructure.com/courses/976/modules#module_12165) videos |  Test yourself quiz: week 12 |
+|Lecture 22|  | | | Test yourself quiz: week 11  |
+|Lecture 23|   | | Read Notebook 11 | |
+|Lecture 24|  | | | Test yourself quiz: week 12 |
 |Lecture 25|  |  | |Final Project|
 |Lecture 26|  | | |  Test yourself quiz: week 13 |
 |Lecture 27| Course assessment and Google Cloud skill badges | Course recap; knowledge assessment and Quest completion; and next steps | | |
