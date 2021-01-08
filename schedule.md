@@ -2,18 +2,16 @@
 
 | Date | Lecture title | Content |Assigned Reading <br> (see our textbook [Applied Computing 1](https://runestone.academy/runestone/books/published/ac1/index.html) for the assigned readings) | Deadlines |
 |:---:|---|:---:|:---:|:---:|
-|Lecture 0| Introduction to QTM 250 | What’s in this course; how to get to readings and Qwiklabs; introduce the projects.| [Applied Computing: Module A Preface](https://runestone.academy/runestone/books/published/ac1/module_a_preface.html) |  |
-|Lecture 1| Computer literacy |  |  |  |
-|Lecture 2| Spreadsheet Basics |  | Read [Introduction To Visualizations](https://runestone.academy/runestone/books/published/ac1/introduction_to_visualizations/toctree.html) and [Sheets Basics](https://runestone.academy/runestone/books/published/ac1/sheets_basics/toctree.html) |  |
+|Lecture 0| Introduction to QTM 250 | What’s in this course; introduce the projects.| [Module A Preface](https://runestone.academy/runestone/books/published/ac1/module_a_preface.html) |  |
+|Lecture 1| Computer literacy | Binary and Hexadecimal numbers, Characters, ASCII, Unicode, High vrs low level programming languages, Compiled vrs interpreted languages | [Codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/essential-computer-literacy/index.html#0)  |  |
+|Lecture 2| Spreadsheet Basics | Visualizations and formulas; illustrative examples | [Introduction To Visualizations](https://runestone.academy/runestone/books/published/ac1/introduction_to_visualizations/toctree.html) and [Sheets Basics](https://runestone.academy/runestone/books/published/ac1/sheets_basics/toctree.html) |  |
 |Lecture 3| So, What’s the Cloud Anyway? | Discuss what the cloud is and why it’s a technological and business game changer. | Read Linux codelab |Test yourself quiz: week 1|
-|Lecture 4| Filtering and grouping data | | Read Notebook 3 | |
+|Lecture 4| Filtering and grouping data | | [Basic Descriptive Statistics](https://runestone.academy/runestone/books/published/ac1/basic_descriptive_statistics/toctree.html) <br> [Filtering and Grouping](https://runestone.academy/runestone/books/published/ac1/filtering_and_grouping/toctree.html)  | |
 |Lecture 5| Google Cloud Platform (GCP) | Describe the different ways a user can interact with Google Cloud. |  Complete [A Tour of Qwiklabs and Google Cloud](https://www.qwiklabs.com/focuses/2794?parent=catalog) lab |Test yourself quiz: week 2 |
 |Lecture 6| Pivot tables and joining data  | | Read Notebook 4 | HW 1 |
 |Lecture 7| Compute options in Google Cloud | Discover the different compute options in Google Cloud, including Compute Engine, App Engine, Cloud Functions, and Google Kubernetes Engine.| Watch [Module 2](https://awsacademy.instructure.com/courses/976/modules#module_12157) videos |Test yourself quiz: week 3|
 |Lecture 8| SQL Introduction |  |Read Notebook 5||
-|Lecture 9| Storage in the Google cloud | Implement a variety of structured and unstructured storage models, including
-Cloud Storage; Cloud Bigtable; Cloud SQL; Cloud Spanner; Datastore
- | Watch [Module 3](https://awsacademy.instructure.com/courses/976/modules#module_12158) videos |Test yourself quiz: week 4 |
+|Lecture 9| Storage in the Google cloud | Implement a variety of structured and unstructured storage models, including Cloud Storage; Cloud Bigtable; Cloud SQL; Cloud Spanner; Datastore | Watch [Module 3](https://awsacademy.instructure.com/courses/976/modules#module_12158) videos |Test yourself quiz: week 4 |
 |Lecture 10| SQL filtering and sorting | |Read Notebook 6 | |
 |Lecture 11| There’s an API for That! | Discuss the different application managed service options, including Cloud Endpoints, Apigee Edge, and Pub/Sub. |Watch [Module 4](https://awsacademy.instructure.com/courses/976/modules#module_12159) videos| Test yourself quiz: week 5 |
 |Lecture 12| SQL aggregating/grouping | |Read Notebook 7 | HW 2|
