@@ -1,6 +1,6 @@
 # Schedule
 
-| Date | Lecture title | Additional material |Assigned Reading <br> (from [Applied Computing 1](https://runestone.academy/runestone/books/published/ac1/index.html)) | Deadlines |
+| Date | Lecture title | Additional material |Assigned Reading <br> (from [Applied Computing](https://runestone.academy/runestone/books/published/ac1/index.html)) | Deadlines |
 |:---:|---|:---:|:---:|:---:|
 |Lecture 0| Introduction to QTM 250 | | [Module A Preface](https://runestone.academy/runestone/books/published/ac1/module_a_preface.html), <br> Module 0 Slides |  |
 |Lecture 1| Prerequisites for cloud | [Computer Literacy Codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/essential-computer-literacy/index.html#0) |   |  |
@@ -21,11 +21,11 @@
 |Lecture 16| It Helps to Network | | Module 7 slides | Test yourself quiz 4|
 |Lecture 17| Datastudio and dashboarding |  | |  |
 |Lecture 18| Cloud automation and management tools | |Module 8 slides | |
-|Lecture 19| API requests in Python | [Requests and Dictionaries](https://colab.research.google.com/drive/1aBPNnjW2YO8FIQUaDmhx_10QfexsXpff?usp=sharing) | |Test yourself quiz: week 8 |
+|Lecture 19| API requests in Python | [Requests and Dictionaries](https://colab.research.google.com/drive/1aBPNnjW2YO8FIQUaDmhx_10QfexsXpff?usp=sharing) | ||
 |Lecture 20| Managed big data services in the cloud | | Module 9 slides  | Test yourself quiz 5 |
 |Lecture 21| Machine Learning APIs | [Using Machine Learning APIs](https://colab.research.google.com/drive/1OHGs7vDWc8B_HzxR9DukuTtxS158XGJv?usp=sharing) | | HW 3  |
 |Lecture 22|  Introduction to machine learning in the cloud | |Module 10 slides | |
-|Lecture 23| Strings and Lists in Python | [Strings and Lists](https://colab.research.google.com/drive/17mq9MKx_LRUlG0LuXcNcpE7qNvogW96t?usp=sharing) |  |Test yourself quiz 6 |
-|Lecture 24| Advanced visualization tools | [Examples of Bokeh and Datashader](https://colab.research.google.com/drive/12k1fQTyVh_-i-mRg4Vcue0G0sY9k0QRM?usp=sharing) |||
+|Lecture 23| Strings and Lists in Python | [Strings and Lists](https://colab.research.google.com/drive/17mq9MKx_LRUlG0LuXcNcpE7qNvogW96t?usp=sharing) |  | |
+|Lecture 24| Advanced visualization tools | [Examples of Bokeh and Datashader](https://colab.research.google.com/drive/12k1fQTyVh_-i-mRg4Vcue0G0sY9k0QRM?usp=sharing) ||Test yourself quiz 6|
 |Lecture 25| Statistics in Python | [Regression example](https://colab.research.google.com/github/jeremyallenjacobson/qtm350/blob/master/CourseAssets/project-template/project-regression-example.ipynb) |  | |
 |Lecture 26| Course assessment and Google Cloud skill badges | | |HW 4 |
