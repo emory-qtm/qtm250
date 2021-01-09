@@ -3,7 +3,7 @@
 | Date | Lecture title | Additional material |Assigned Reading <br> (from [Applied Computing 1](https://runestone.academy/runestone/books/published/ac1/index.html)) | Deadlines |
 |:---:|---|:---:|:---:|:---:|
 |Lecture 0| Introduction to QTM 250 | | [Module A Preface](https://runestone.academy/runestone/books/published/ac1/module_a_preface.html), <br> Module 0 Slides |  |
-|Lecture 1| Prerequisites for cloud | | [Computer Literacy Codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/essential-computer-literacy/index.html#0)  |  |
+|Lecture 1| Prerequisites for cloud | [Computer Literacy Codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/essential-computer-literacy/index.html#0) |   |  |
 |Lecture 2| Spreadsheet Basics | | [Introduction To Visualizations](https://runestone.academy/runestone/books/published/ac1/introduction_to_visualizations/toctree.html), <br> [Sheets Basics](https://runestone.academy/runestone/books/published/ac1/sheets_basics/toctree.html) |  |
 |Lecture 3| So, What’s the Cloud Anyway? |  | Module 1 slides | |
 |Lecture 4| Filtering and grouping data | | [Basic Descriptive Statistics](https://runestone.academy/runestone/books/published/ac1/basic_descriptive_statistics/toctree.html), <br> [Filtering and Grouping](https://runestone.academy/runestone/books/published/ac1/filtering_and_grouping/toctree.html)  | Test yourself quiz 1  |
