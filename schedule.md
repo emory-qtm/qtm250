@@ -1,6 +1,6 @@
 # Schedule
 
-| Date | Lecture title | Additional material |Assigned Reading <br> (from [Applied Computing](https://runestone.academy/runestone/books/published/ac1/index.html))<br> (Slides from [Google Cloud Computing Foundations](https://edu.google.com/programs/cloud-computing-curriculum/?modal_active=none) | Deadlines |
+| Date | Lecture title | Additional material |Assigned Reading <br> (from [Applied Computing](https://runestone.academy/runestone/books/published/ac1/index.html)<br> and slides from [Google Cloud Computing Foundations](https://edu.google.com/programs/cloud-computing-curriculum/?modal_active=none)) | Deadlines |
 |:---:|---|:---:|:---:|:---:|
 |Lecture 0| Introduction to QTM 250 | | [Module A Preface](https://runestone.academy/runestone/books/published/ac1/module_a_preface.html), <br> Module 0 Slides |  |
 |Lecture 1| Prerequisites for cloud | [Computer Literacy Codelab](https://codelabs-jacobson.s3.us-east-2.amazonaws.com/essential-computer-literacy/index.html#0) |   |  |
