@@ -16,7 +16,7 @@
 |Lecture 11| There’s an API for That! | | Module 5 slides | |
 |Lecture 12| SQL Part II | |[Sorting](https://runestone.academy/runestone/books/published/ac1/sql/sorting.html), <br> [Aggregating](https://runestone.academy/runestone/books/published/ac1/sql/aggregating.html) | Test yourself quiz 3 |
 |Lecture 13| You Can’t Secure the Cloud, Right? | | Module 6 slides ||
-|Lecture 14| SQL Part III| | [Ifs and Cases](https://runestone.academy/runestone/books/published/ac1/sql/ifs_and_cases.html)<br>  [Joining](https://runestone.academy/runestone/books/published/ac1/sql/joining.html)| HW 2 |
+|Lecture 14| SQL Part III| | [Ifs and Cases](https://runestone.academy/runestone/books/published/ac1/sql/ifs_and_cases.html)<br>  [Joining](https://runestone.academy/runestone/books/published/ac1/sql/joining.html)| [HW 2](https://github.com/jeremyallenjacobson/qtm250/blob/main/HW1.md#the-stories-behind-names) |
 |Lecture 15| Introduction to APIs via `curl` and `jq` | [Data on bestselling books via the Times API](https://colab.research.google.com/drive/1plE4pQTvvxoLWZfE-XygTJ2QAxWxf8xl?usp=sharing) | ||
 |Lecture 16| It Helps to Network | | Module 7 slides | Test yourself quiz 4|
 |Lecture 17| Datastudio and dashboarding |  | |  |
