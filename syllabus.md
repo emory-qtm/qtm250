@@ -21,7 +21,7 @@ Applied Computing is an online textbook available [free to students](https://run
 Google Cloud experts develop and maintain the Computing Foundations reference material specifically for university courses such as this to ensure it keeps pace with cloud innovation and to prepare students seeking to launch or pivot to [careers](https://careers.google.com/students/) in a cloud-first world. 
 
 ## Grading
-* Attendance/Group activity participation: 5%
+* Attendance: 5%
 * 4 Homeworks: 40%
 * 6 Quizzes: 30%
 * Midterm: 10%
