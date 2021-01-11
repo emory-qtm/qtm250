@@ -9,14 +9,14 @@
 |Lecture 4| Filtering and grouping data | | [Basic Descriptive Statistics](https://runestone.academy/runestone/books/published/ac1/basic_descriptive_statistics/toctree.html), <br> [Filtering and Grouping](https://runestone.academy/runestone/books/published/ac1/filtering_and_grouping/toctree.html)  | Test yourself quiz 1  |
 |Lecture 5| Google Cloud Platform (GCP) |  | Module 2 slides |  |
 |Lecture 6| Pivot tables and joining data  | | [Module B Preface](https://runestone.academy/runestone/books/published/ac1/module_b_preface.html), <br> [Importing and Exporting data](https://runestone.academy/runestone/books/published/ac1/importing_and_exporting_data/toctree.html), <br> [Scatter Plots and Correlation](https://runestone.academy/runestone/books/published/ac1/scatter_plots_and_correlation/toctree.html), [Regression](https://runestone.academy/runestone/books/published/ac1/regression_and_line_of_best_fit/toctree.html), <br> [Manipulating Data](https://runestone.academy/runestone/books/published/ac1/manipulating_data/toctree.html) |  |
-|Lecture 7| Compute options in Google Cloud | | Module 3 slides | HW 1|
+|Lecture 7| Compute options in Google Cloud | | Module 3 slides | [HW 1](https://github.com/jeremyallenjacobson/qtm250/blob/main/HW1.md#spreadsheet-experiments)|
 |Lecture 8| Introduction to Biq Query | |[Module C Preface](https://runestone.academy/runestone/books/published/ac1/module_c_preface.html), <br> [Introduction](https://runestone.academy/runestone/books/published/ac1/sql/introduction.html) | Test yourself quiz 2|
 |Lecture 9| Storage in the Google cloud |  | Module 4 slides ||
 |Lecture 10 | SQL Part I |  | [Selecting](https://runestone.academy/runestone/books/published/ac1/sql/selecting.html), <br> [Filtering](https://runestone.academy/runestone/books/published/ac1/sql/filtering.html) | |
 |Lecture 11| There’s an API for That! | | Module 5 slides | |
 |Lecture 12| SQL Part II | |[Sorting](https://runestone.academy/runestone/books/published/ac1/sql/sorting.html), <br> [Aggregating](https://runestone.academy/runestone/books/published/ac1/sql/aggregating.html) | Test yourself quiz 3 |
 |Lecture 13| You Can’t Secure the Cloud, Right? | | Module 6 slides ||
-|Lecture 14| SQL Part III| | [Ifs and Cases](https://runestone.academy/runestone/books/published/ac1/sql/ifs_and_cases.html)<br>  [Joining](https://runestone.academy/runestone/books/published/ac1/sql/joining.html)| [HW 2](https://github.com/jeremyallenjacobson/qtm250/blob/main/HW1.md#the-stories-behind-names) |
+|Lecture 14| SQL Part III| | [Ifs and Cases](https://runestone.academy/runestone/books/published/ac1/sql/ifs_and_cases.html)<br>  [Joining](https://runestone.academy/runestone/books/published/ac1/sql/joining.html)| [HW 2](https://github.com/jeremyallenjacobson/qtm250/blob/main/HW2.md#the-stories-behind-names) |
 |Lecture 15| Introduction to APIs via `curl` and `jq` | [Data on bestselling books via the Times API](https://colab.research.google.com/drive/1plE4pQTvvxoLWZfE-XygTJ2QAxWxf8xl?usp=sharing) | ||
 |Lecture 16| It Helps to Network | | Module 7 slides | Test yourself quiz 4|
 |Lecture 17| Datastudio and dashboarding |  | |  |
