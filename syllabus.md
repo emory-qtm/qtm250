@@ -38,7 +38,7 @@ There are four homeworks, one on each of the core topics: spreadsheets; SQL; dat
 There are six take-home style quizzes that students complete individually on Canvas.
 
 ## Midterm and Final Exam
-The midterm and final exam are cumulative. Questions from the assigned quizzes are pooled and a selection of these, or similar, make up the midterm and final Exam. They are administered on Canvas.
+The midterm and final exam are cumulative. Questions from the assigned quizzes are pooled and a selection of these, or similar, make up the midterm and final exam. They are administered on Canvas.
 
 ## Honor code
 All student work is governed by the [Emory Honor Code](http://catalog.college.emory.edu/academic/policies-regulations/honor-code.html). Honor code violations (e.g., copies from any source including your colleagues and internet sites without reference and delineation of your contributions) will be referred to the [Emory Honor Council](http://college.emory.edu/oue/current-students/honor-council.html).
