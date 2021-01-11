@@ -23,7 +23,7 @@
 |Lecture 18| Cloud automation and management tools | |Module 8 slides | |
 |Lecture 19| API requests in Python | [Requests and Dictionaries](https://colab.research.google.com/drive/1aBPNnjW2YO8FIQUaDmhx_10QfexsXpff?usp=sharing) | ||
 |Lecture 20| Managed big data services in the cloud | | Module 9 slides  | Test yourself quiz 5 |
-|Lecture 21| Machine Learning APIs | [Using Machine Learning APIs](https://colab.research.google.com/drive/1OHGs7vDWc8B_HzxR9DukuTtxS158XGJv?usp=sharing) | | HW 3  |
+|Lecture 21| Machine Learning APIs | [Using Machine Learning APIs](https://colab.research.google.com/drive/1OHGs7vDWc8B_HzxR9DukuTtxS158XGJv?usp=sharing) | | [HW 3](https://github.com/jeremyallenjacobson/qtm250/blob/main/HW3.md#data-story)  |
 |Lecture 22|  Introduction to machine learning in the cloud | |Module 10 slides | |
 |Lecture 23| Strings and Lists in Python | [Strings and Lists](https://colab.research.google.com/drive/17mq9MKx_LRUlG0LuXcNcpE7qNvogW96t?usp=sharing) |  | |
 |Lecture 24| Advanced visualization tools | [Examples of Bokeh and Datashader](https://colab.research.google.com/drive/12k1fQTyVh_-i-mRg4Vcue0G0sY9k0QRM?usp=sharing) ||Test yourself quiz 6|
