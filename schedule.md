@@ -28,4 +28,4 @@
 |Lecture 23| Strings and Lists in Python | [Strings and Lists](https://colab.research.google.com/drive/17mq9MKx_LRUlG0LuXcNcpE7qNvogW96t?usp=sharing) |  | |
 |Lecture 24| Advanced visualization tools | [Examples of Bokeh and Datashader](https://colab.research.google.com/drive/12k1fQTyVh_-i-mRg4Vcue0G0sY9k0QRM?usp=sharing) ||Test yourself quiz 6|
 |Lecture 25| Statistics in Python | [Regression example](https://colab.research.google.com/github/jeremyallenjacobson/qtm350/blob/master/CourseAssets/project-template/project-regression-example.ipynb) |  | |
-|Lecture 26| Course assessment and Google Cloud skill badges | | |HW 4 |
+|Lecture 26| Course assessment and Google Cloud skill badges | | |[HW 4](https://github.com/jeremyallenjacobson/qtm250/blob/main/HW4.md#experiments-in-ml) |
