@@ -1,4 +1,4 @@
-Applied computing
+QTM 250: Applied computing
 ====
 
 * [Syllabus](./syllabus.md)
